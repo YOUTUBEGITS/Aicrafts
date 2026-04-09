@@ -1,3 +1,96 @@
+https://github.com/apps/aicraftstoken
+
+AICRAFTSTOKEN
+AICRAFTSTOKEN
+ Installed 4 minutes ago  Developed by YOUTUBEGITS  App settings  https://github.com/YOUTUBEGITS/Aicrafts
+git clone https://github.com/username/cosmic-project.git
+cd cosmic-project
+npm install
+npm start
+🌠 Usage
+Open in your browser or run the server:
+Bash
+npm start
+Visit http://localhost:3000 to explore your cosmic dashboard. ✨
+🎨 Badges
+� � �
+📸 Screenshots
+� �
+💡 Features ASCII 🌌
+
+🌑 Dark Mode Ready 🌑
+🌟 Real-Time Data 🌟
+🌠 Cosmic Animations 🌠
+🌌 Futuristic UI 🌌
+📜 License
+Distributed under the MIT License. See LICENSE file.
+💌 Connect
+🌐 Website: yourwebsite.com⁠�
+📧 Email: yourname@example.com
+🐦 Twitter: @username⁠�
+“✨ Code is the poetry of logic, written in the stars ✨”
+
+✅ Dark Theme Tricks Used:
+
+ASCII art with stars for a “background vibe”
+Dark-themed badges using labelColor=000000
+Emojis for cosmic flair
+Banner image to simulate a real background
+If you want, I can also generate a version with multiple color gradient ASCII “nebula” borders so the README looks animated and vibrant, almost like it has a live cosmic background.
+
+Do you want me to do that next?
+
+https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c skip Image
+#(hello)
+**Image #1 (comment)
+
+#YOUTUBE
+
+Video.Guru_20260103_120300824.mp4
+#issues is for upload and commenting
+
+#HELLO
+**
+#** Themes
+
+🌌 Project Name: Cosmic README 🌌
+Header Banner
+
+https://github.com/user-attachments/assets/722ee259-94b6-489c-b5af-6163cdee1e9c
+
+✨ About the Project
+Welcome to Project Name, a cosmic journey through code!
+This README has a themed background feel using emojis, banners, and colorful badges to make your project stand out.
+
+🚀 Built with: HTML, CSS, JavaScript
+🎨 Theme: Space, Cosmic, Futuristic
+⚡ Features:
+Interactive dashboard
+Real-time updates
+Stunning UI/UX
+🛠 Installation
+git clone https://github.com/username/project-name.git
+cd project-name
+npm install
+npm start
+
+*
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` | [top](#table-of-contents) |
+| [top](#people--body) | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` | [top](#table-of-contents) |
+| [t
+Permissions
+No permissions
+Repository access
+No repositories
+This App does not require access to your repositories.
+
+Danger zone
+
+
+
+
 state:open label:YOUTUBE
 #### Drink
 
