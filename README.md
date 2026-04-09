@@ -1,4 +1,42 @@
-# Create applications with the Copilot CLI
+<details> 
+  <summary>
+    
+    ## Table of Contents
+
+
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=jPpFch-z-1lYlmF9&amp;list=PL9gYSL74h0Ig8kz1x5WPzgJ6L-VIlKEb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Smileys & Emotion](#smileys--emotion)
+- [People & Body](#people--body)
+- [Animals & Nature](#animals--nature)
+- [Food & Drink](#food--drink)
+- [Travel & Places](#travel--places)
+- [Activities](#activities)
+- [Objects](#objects)
+- [Symbols](#symbols)
+- [Flags](#flags)
+- [GitHub Custom Emoji](#github-custom-emoji) 
+</summary>
+  </details>
+aicraftshtml.blogspot.com/2026/04/each-apge-works-with-newest-updated.html?m=1
+ 1 star
+ 0 forks
+ 1 watching
+ 9 Branches
+ 0 Tags
+ Activity
+Public repository
+YOUTUBEGITS/Aicrafts
+Name		
+YOUTUBEGITS
+YOUTUBEGITS
+Update README.md
+25e89b2
+ · 
+53 minutes
+
+
+# Details Create applications with the Copilot CLI
 
 _Learn to use GitHub Copilot CLI—a standalone terminal application—for issue management and building a Node.js calculator application._
 
@@ -6,9 +44,9 @@ _Learn to use GitHub Copilot CLI—a standalone terminal application—for issue
 npm start
 
 ico	shortcode	ico	shortcode	
-top	👍	:+1:
+Details	👍	:+1:
 :thumbsup:	👎	:-1:
-:thumbsdown:	top
+:thumbsdown:	Details
 Details
 Having trouble? 🤷
 
