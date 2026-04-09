@@ -3,7 +3,18 @@
 _Learn to use GitHub Copilot CLI—a standalone terminal application—for issue management and building a Node.js calculator application._
 
 ## Welcome
+npm start
 
+ico	shortcode	ico	shortcode	
+top	👍	:+1:
+:thumbsup:	👎	:-1:
+:thumbsdown:	top
+Details
+Having trouble? 🤷
+
+When copying the exercise, we recommend the following settings:
+
+For owner, choose your personal account or an organization to host the
 - **Who is this for**: Developers who want to learn how to use the standalone GitHub Copilot CLI to streamline their development workflow
 - **What you'll learn**: How to install and use GitHub Copilot CLI as a standalone terminal tool for creating issues, generating code, and collaborating interactively from the command line
 - **What you'll build**: A Node.js calculator app using Copilot CLI for project setup, issue management, and collaborative development
@@ -139,7 +150,26 @@ npm start
 *
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#people--body) | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` | [top](#table-of-contents) |
+| [top](#people--body) | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` | [top](#table-of-contents) <details>
+<summary>Having trouble? 🤷</summary><br/>
+
+When copying the exercise, we recommend the following settings:
+
+- For owner, choose your personal account or an organization to host the repository.
+
+- We recommend creating a public repository, since private repositories will use Actions minutes.
+
+If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+
+- Check to see if a job is running. Sometimes it simply takes a bit longer.
+
+- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+
+</details>
+
+---
+
+&copy; 2026 GitHub|
 | [top](#people--body) | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` | [top](#table-of-contents) |
 | [t
 Permissions
